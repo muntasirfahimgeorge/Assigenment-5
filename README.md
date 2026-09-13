@@ -10,9 +10,9 @@ Users can also make their own development stack by adding technologies they want
 
 ## 🚀 Live Project
 
-Live Demo: Add your deployed project link here
+Live Demo: https://sensational-baklava-c49f0f.netlify.app/
 
-GitHub Repository: Add your GitHub repository link here
+GitHub Repository: https://github.com/muntasirfahimgeorge/Assigenment-5
 
 ---
 
